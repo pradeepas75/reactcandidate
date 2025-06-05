@@ -9,7 +9,7 @@ export const CandidateProvider = ({ children }) => {
     const openModal = (candidate, index) => {
         setSelectedCandidate(candidate);
         setSelectedIndex(index);
-        const modal = new window.bootstrap.Modal(document.getElementById("detailsModal"));
+        const modal = new window.bootstrap.Modal(document.getElementById("detailsMbtodal"));
         modal.show();
     };
 
