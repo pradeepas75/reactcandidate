@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heloo peoples my self shiva
+=======
+new file created demo.txt file.
+>>>>>>> staffrepo
